@@ -62,6 +62,10 @@
 
 ## 🌟 Featured Projects
 
+- 📌 **[Ecommerce-Analytics](https://github.com/tanguyhdn/Olist-Ecommerce-Analytics-DBT-BigQuery-Metabase)**  
+  CSV files → BigQuery → dbt → Metabase 
+  → End-to-end data analytics project transforming Olist e-commerce data using dbt and BigQuery, visualized in Metabase.
+
 - ⚽️ **[Football Analytics](https://github.com/tanguyhdn/football-analytics-dbt-bigquery)**  
   Public API → BigQuery → dbt → Power BI  
   → Match stats, team performance, and competition insights in an end-to-end data workflow.
