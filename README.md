@@ -19,7 +19,7 @@
 ## 📜 Certifications
 
 - ✅ [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ulrichhodonou-2734/credentials/8ff86f9e6ba1d967?ref=https%3A%2F%2Ftanguyhodonou.netlify.app%2F)
-- 🧪 *Google Cloud Associate Data Analyst* – *(in progress)*
+- 🧪 [Google Cloud Associate Data Analyst](https://www.credly.com/badges/b7ba3f5e-ab84-4194-8d01-104a2d2977b6/public_url)
 
 ---
 
