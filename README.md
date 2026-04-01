@@ -11,6 +11,7 @@
 🔍 I analyze, model, and activate data to drive decision-making.  
 ⚙️ I build scalable data pipelines using tools like **dbt**, **Airflow**, and **BigQuery**.  
 📊 I create insightful dashboards with **Power BI**, **Looker**, and **Metabase**.  
+🐍 I develop data applications and automation scripts in **Python** and deploy interactive apps with **Streamlit**.  
 🌍 I bring tech and data to purpose-driven projects in both nonprofit and tech sectors.
 
 ---
