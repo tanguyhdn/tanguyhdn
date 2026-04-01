@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Tanguy</h1>
-
 <p align="center">
   <b>Data Analyst · Analytics Engineer · Data Enthusiast</b><br>
   Turning data into action, one query at a time.
@@ -24,34 +23,27 @@
 ---
 
 <h3 align="center">🧰 My Preferred Tech Stack</h3>
-
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/DAX-00A1F1?logo=powerbi&logoColor=white" height="25"/>
 </p>
-
 <p align="center">
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="25"/>
 </p>
-
 <p align="center">
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" height="25"/>
 </p>
-
 <p align="center">
-  <!-- Cloud & Dev -->
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="25"/>
@@ -62,9 +54,17 @@
 
 ## 🌟 Featured Projects
 
-- 📌 **[Ecommerce-Analytics](https://github.com/tanguyhdn/Olist-Ecommerce-Analytics-DBT-BigQuery-Metabase)**  
-  CSV files → BigQuery → dbt → Metabase 
-  → End-to-end data analytics project transforming Olist e-commerce data using dbt and BigQuery, visualized in Metabase.
+- 🚚 **[Supply Chain Analytics Assistant](https://github.com/tanguyhdn/supply-chain-assistant)** — [🔴 Live Demo](https://supply-chain-assistant-x3faq77guwqtqs7brcaubp.streamlit.app/)  
+  USAID SCMS dataset → dbt Core → BigQuery → Claude API → Streamlit  
+  → Assistant conversationnel Text-to-SQL sur 10 000+ livraisons de produits médicaux humanitaires. Modélisation dbt en 3 couches, KPIs supply chain accessibles en langage naturel.
+
+- 🤖 **[LLM Analytics Assistant](https://github.com/tanguyhdn/analytics-assistant)** — [🔴 Live Demo](https://tanguy-analytics-assistant.streamlit.app/)  
+  dbt Core → BigQuery → Claude API → Streamlit  
+  → Application Text-to-SQL interrogeant des données en langage naturel via l'API Anthropic — pipeline complet question → génération SQL → exécution → restitution.
+
+- 📌 **[Ecommerce Analytics](https://github.com/tanguyhdn/Olist-Ecommerce-Analytics-DBT-BigQuery-Metabase)**  
+  CSV → BigQuery → dbt → Metabase  
+  → End-to-end analytics project transforming Olist e-commerce data using dbt and BigQuery, visualized in Metabase.
 
 - ⚽️ **[Football Analytics](https://github.com/tanguyhdn/football-analytics-dbt-bigquery)**  
   Public API → BigQuery → dbt → Power BI  
@@ -84,4 +84,4 @@
 
 ---
 
-<h4 align="center"><i>“Data is a tool for empowerment.”</i></h4>
+<h4 align="center"><i>"Data is a tool for empowerment."</i></h4>
