@@ -59,7 +59,7 @@
   USAID SCMS dataset → dbt Core → BigQuery → Claude API → Streamlit  
   → Assistant conversationnel Text-to-SQL sur 10 000+ livraisons de produits médicaux humanitaires. Modélisation dbt en 3 couches, KPIs supply chain accessibles en langage naturel.
 
-- 🤖 **[LLM Analytics Assistant](https://github.com/tanguyhdn/analytics-assistant)** — [🔴 Live Demo](https://tanguy-analytics-assistant.streamlit.app/)  
+- 🤖 **[LLM Analytics Assistant](https://github.com/tanguyhdn/llm-analytics-assistant)** — [🔴 Live Demo](https://tanguy-analytics-assistant.streamlit.app/)  
   dbt Core → BigQuery → Claude API → Streamlit  
   → Application Text-to-SQL interrogeant des données en langage naturel via l'API Anthropic — pipeline complet question → génération SQL → exécution → restitution.
 
