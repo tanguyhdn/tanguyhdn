@@ -1,92 +1,117 @@
-<h1 align="center">👋 Hi, I'm Tanguy</h1>
-<p align="center">
-  <b>Data Analyst · Analytics Engineer · Data Enthusiast</b><br>
-  Turning data into action, one query at a time.
-</p>
+<div align="center">
+
+# 👋 Hi, I'm Tanguy Hodonou
+
+### Analytics Engineer · Data Analyst · Paris, France
+
+[![Portfolio](https://img.shields.io/badge/Blog-tanguyhodonou.netlify.app-blue?style=flat-square&logo=netlify)](https://tanguyhodonou.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanguyhodonou)
+[![GitHub](https://img.shields.io/badge/GitHub-tanguyhdn-181717?style=flat-square&logo=github)](https://github.com/tanguyhdn)
+
+*Turning data into action, one query at a time.*
+
+</div>
 
 ---
 
 ## 🚀 What I Do
 
-🔍 I analyze, model, and activate data to drive decision-making.  
-⚙️ I build scalable data pipelines using tools like **dbt**, **Airflow**, and **BigQuery**.  
-📊 I create insightful dashboards with **Power BI**, **Looker**, and **Metabase**.  
-🐍 I develop data applications and automation scripts in **Python** and deploy interactive apps with **Streamlit**.  
-🌍 I bring tech and data to purpose-driven projects in both nonprofit and tech sectors.
+```text
+🔍  Analyze, model, and activate data to drive decision-making
+⚙️  Build scalable data pipelines with dbt, Airflow, and BigQuery
+📊  Create insightful dashboards with Power BI, Looker, and Streamlit
+🐍  Develop data apps and automation scripts in Python
+🌍  Bring tech and data to purpose-driven projects (NGO & tech sectors)
+```
 
----
+## 🧰 Tech Stack
 
-## 📜 Certifications
+**Languages**
 
-- ✅ [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ulrichhodonou-2734/credentials/8ff86f9e6ba1d967?ref=https%3A%2F%2Ftanguyhodonou.netlify.app%2F)
-- ✅ [Google Cloud Associate Data Analyst](https://www.credly.com/badges/b7ba3f5e-ab84-4194-8d01-104a2d2977b6/public_url)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-00A1F1?style=flat-square&logo=powerbi&logoColor=white)
 
----
+**Data Engineering & Analytics**
 
-<h3 align="center">🧰 My Preferred Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/DAX-00A1F1?logo=powerbi&logoColor=white" height="25"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" height="25"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" height="25"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="25"/>
-</p>
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Elementary](https://img.shields.io/badge/Elementary-FC4C02?style=flat-square)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-000000?style=flat-square)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-- ♟ **[Chess Analytics Platform](https://github.com/tanguyhdn/chess-analytics-platform)** — [🔴 Live Demo](https://chess-analytics-platform-ad9rpmjfvhqwmfmkejosxs.streamlit.app/)  
-  Chess.com API → BigQuery → dbt Core → Airflow → Elementary → Streamlit  
-  → End-to-end Modern Data Stack pipeline tracking 5 top players · 3,421 games · 41 dbt tests · Airflow orchestration · Elementary observability.
+### 🏆 Flagship Project
 
-- 🚚 **[Supply Chain Analytics Assistant](https://github.com/tanguyhdn/supply-chain-assistant)** — [🔴 Live Demo](https://supply-chain-assistant-x3faq77guwqtqs7brcaubp.streamlit.app/)  
-  USAID SCMS dataset → dbt Core → BigQuery → Claude API → Streamlit  
-  → Assistant conversationnel Text-to-SQL sur 10 000+ livraisons de produits médicaux humanitaires. Modélisation dbt en 3 couches, KPIs supply chain accessibles en langage naturel.
+**♟ [Chess Analytics Platform](https://github.com/tanguyhdn/chess-analytics-platform)** — [🔴 Live Demo](https://chess-analytics-platform-ad9rpmjfvhqwmfmkejosxs.streamlit.app/)
 
-- 🤖 **[LLM Analytics Assistant](https://github.com/tanguyhdn/llm-analytics-assistant)** — [🔴 Live Demo](https://tanguy-analytics-assistant.streamlit.app/)  
-  dbt Core → BigQuery → Claude API → Streamlit  
-  → Application Text-to-SQL interrogeant des données en langage naturel via l'API Anthropic — pipeline complet question → génération SQL → exécution → restitution.
+`Chess.com API · BigQuery · dbt Core · Airflow · Elementary · Great Expectations · Streamlit`
 
-- 📌 **[Ecommerce Analytics](https://github.com/tanguyhdn/Olist-Ecommerce-Analytics-DBT-BigQuery-Metabase)**  
-  CSV → BigQuery → dbt → Metabase  
-  → End-to-end analytics project transforming Olist e-commerce data using dbt and BigQuery, visualized in Metabase.
+Production-grade analytics engineering pipeline tracking 5 top Chess.com players across 3 months of games, from raw API ingestion to a live deployed dashboard, with full orchestration, data quality monitoring, and observability.
 
-- ⚽️ **[Football Analytics](https://github.com/tanguyhdn/football-analytics-dbt-bigquery)**  
-  Public API → BigQuery → dbt → Power BI  
-  → Match stats, team performance, and competition insights in an end-to-end data workflow.
-
-- 🛍️ **[Contoso Retail Analytics](https://github.com/tanguyhdn/contoso-sql-retail-analytics)**  
-  Simulated retail data → SQL Server + Power BI  
-  → Business KPIs, sales dashboards, and insights from modeled datasets.
+- 3,421 games ingested · 5 top players tracked (Jan–Mar 2025)
+- 6 dbt models · 41 tests passing · Elementary observability · Great Expectations
+- 3 Airflow DAGs · Docker Compose · Streamlit Cloud deployment
 
 ---
+
+### Other Projects
+
+- 🚚 **[Supply Chain Analytics Assistant](https://github.com/tanguyhdn/supply-chain-assistant)** — [🔴 Live](https://supply-chain-assistant-x3faq77guwqtqs7brcaubp.streamlit.app/)
+  `dbt · BigQuery · Claude API · Streamlit`
+  Conversational Text-to-SQL assistant querying 10,000+ USAID humanitarian medical deliveries in natural language.
+
+- 🤖 **[LLM Analytics Assistant](https://github.com/tanguyhdn/llm-analytics-assistant)** — [🔴 Live](https://tanguy-analytics-assistant.streamlit.app/)
+  `dbt · BigQuery · Claude API · Streamlit`
+  Full pipeline turning natural language questions into SQL queries executed on BigQuery via the Anthropic API.
+
+- 📌 **[Ecommerce Analytics](https://github.com/tanguyhdn/Olist-Ecommerce-Analytics-DBT-BigQuery-Metabase)**
+  `CSV · BigQuery · dbt · Metabase`
+  End-to-end analytics project transforming Olist Brazilian e-commerce data into actionable business insights.
+
+- 🛍️ **[Contoso Retail Analytics](https://github.com/tanguyhdn/contoso-sql-retail-analytics)**
+  `SQL Server · Power BI`
+  Sales KPIs, revenue dashboards, and business performance analysis on simulated retail data.
+
+---
+
+## 📜 Certifications
+
+[![Power BI](https://img.shields.io/badge/✅_Microsoft-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/users/ulrichhodonou-2734/credentials/8ff86f9e6ba1d967)
+[![GCP](https://img.shields.io/badge/✅_Google_Cloud-Associate_Data_Analyst-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/b7ba3f5e-ab84-4194-8d01-104a2d2977b6/public_url)
+
+---
+
 
 ## 🎯 Interests
 
-- End-to-end data workflows  
-- Data modeling & transformation  
-- Data for good & decision-making in impact-driven orgs
+- End-to-end data workflows & modern data stack
+- Data modeling, transformation & semantic layers
+- Data for good & decision-making in impact-driven organizations
 
 ---
 
-<h4 align="center"><i>"Data is a tool for empowerment."</i></h4>
+<div align="center">
+
+*"Data is a tool for empowerment."*
+
+</div>
