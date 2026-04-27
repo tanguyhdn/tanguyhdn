@@ -5,7 +5,6 @@
 ### Analytics Engineer · Data Analyst · Paris, France
 
 [![Portfolio](https://img.shields.io/badge/Blog-tanguyhodonou.netlify.app-blue?style=flat-square&logo=netlify)](https://tanguyhodonou.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanguyhodonou)
 [![GitHub](https://img.shields.io/badge/GitHub-tanguyhdn-181717?style=flat-square&logo=github)](https://github.com/tanguyhdn)
 
 *Turning data into action, one query at a time.*
@@ -21,7 +20,7 @@
 ⚙️  Build scalable data pipelines with dbt, Airflow, and BigQuery
 📊  Create insightful dashboards with Power BI, Looker, and Streamlit
 🐍  Develop data apps and automation scripts in Python
-🌍  Bring tech and data to purpose-driven projects (NGO & tech sectors)
+🌍  Bring tech and data to purpose-driven projects
 ```
 
 ## 🧰 Tech Stack
