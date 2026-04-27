@@ -19,7 +19,7 @@
 ## 📜 Certifications
 
 - ✅ [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ulrichhodonou-2734/credentials/8ff86f9e6ba1d967?ref=https%3A%2F%2Ftanguyhodonou.netlify.app%2F)
-- 🧪 [Google Cloud Associate Data Analyst](https://www.credly.com/badges/b7ba3f5e-ab84-4194-8d01-104a2d2977b6/public_url)
+- ✅ [Google Cloud Associate Data Analyst](https://www.credly.com/badges/b7ba3f5e-ab84-4194-8d01-104a2d2977b6/public_url)
 
 ---
 
@@ -54,6 +54,10 @@
 ---
 
 ## 🌟 Featured Projects
+
+- ♟ **[Chess Analytics Platform](https://github.com/tanguyhdn/chess-analytics-platform)** — [🔴 Live Demo](https://chess-analytics-platform-ad9rpmjfvhqwmfmkejosxs.streamlit.app/)  
+  Chess.com API → BigQuery → dbt Core → Airflow → Elementary → Streamlit  
+  → End-to-end Modern Data Stack pipeline tracking 5 top players · 3,421 games · 41 dbt tests · Airflow orchestration · Elementary observability.
 
 - 🚚 **[Supply Chain Analytics Assistant](https://github.com/tanguyhdn/supply-chain-assistant)** — [🔴 Live Demo](https://supply-chain-assistant-x3faq77guwqtqs7brcaubp.streamlit.app/)  
   USAID SCMS dataset → dbt Core → BigQuery → Claude API → Streamlit  
